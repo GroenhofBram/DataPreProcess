@@ -1,0 +1,8 @@
+Trialopbouw is als volgt:
+
+
+Fixatiebolletje komt in beeld (duurt 1 sec)
+Na die 1 sec komen de vier plaatjes in beeld (gedurende 2 sec)
+Daarna begint de audio te spelen
+Trial eindigt als deelnemer op spatiebalk drukt
+
